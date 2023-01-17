@@ -1,0 +1,16 @@
+word file --> .docx
+pdf file  --> .pdf
+excel file  --> .xlsx  and one more .csv
+CSV --> Comma seperated Values
+audio file  --> .mp3
+video file  --> .mp4
+images file  --> .img / jpg / jpeg / png / bmp
+C lang ---> .c
+java lang --> .java
+javascript --> .js
+python lang --> .py
+text file --> .txt
+powerpoint file --> .ppt
+andriod file  --> .apk
+batch file --> .bat ( mostly used for creating virus)
+exe file ---> executable 
